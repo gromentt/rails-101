@@ -1,0 +1,2 @@
+module Acctoun::GroupsHelper
+end
